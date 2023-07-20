@@ -1,2 +1,7 @@
 node_modules/
+<<<<<<< HEAD
+
 .parcel-cache
+=======
+.parcel-cache
+>>>>>>> 10c8c65834d4af890e6b37b82ebc6838df62b13e
